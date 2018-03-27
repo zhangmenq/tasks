@@ -1,0 +1,1 @@
+var bf = new Buffer('miaov');
